@@ -23,7 +23,3 @@ github/
 - `Code`: coming soon
 - `Dataset`: coming soon
 - `Checkpoints`: coming soon
-
-## Notes
-
-You can copy the contents of this folder into a new public GitHub repository when you are ready to reserve the project page.
